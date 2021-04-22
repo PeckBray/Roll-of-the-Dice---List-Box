@@ -1,4 +1,11 @@
-﻿Public Class RollOfTheDiceForm
+﻿'Brayden Peck
+'RCET 0265
+'Spring 2021
+'Roll Of The Dice - List Box
+'https://github.com/PeckBray/Roll-of-the-Dice---List-Box
+Option Strict On
+Option Explicit On
+Public Class RollOfTheDiceForm
     Private Sub ExitButton_Click(sender As Object, e As EventArgs) Handles ExitButton.Click
         Me.Close()
     End Sub
